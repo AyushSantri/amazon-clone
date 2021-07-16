@@ -8,6 +8,7 @@
     background-color: #f3f3f3;
     border: 1px solid #dddddd;
     border-radius: 3px;
+    margin-left: 90px;
 }
 
 .subtotal_gift {
@@ -19,7 +20,7 @@
     margin-right: 5px;
 }
 
-.subtotal_gift > button {
+.subtotal > button {
     background: #f0c14b;
     border-radius: 2px;
     width: 100%;
